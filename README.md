@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning NodeJS, Docker
 - 💞️ I’m looking to collaborate on Software Projects
-- 📫 How to reach me - Email me or connect with me on [Linkedin](https://www.linkedin.com/in/shubham-singh01/)
+- 📫 How to reach me - Email me
 
 <!---
 sudoberlin/sudoberlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
