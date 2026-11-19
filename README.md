@@ -14,6 +14,10 @@ Does a robot policy act the same way when one request is worded differently? I h
 
 A reinforcement learning agent for Othello whose value function is a Bayesian neural network, trained from self-play with variational inference. Built with Narendra Gangwani at UT Dallas.
 
+**[Image inpainting with deep learning](https://github.com/sudoberlin/image-inpainting)**
+
+Three approaches to filling in missing regions of face images on CelebA: a coarse-to-fine network with contextual attention, a context encoder, and a GAN baseline. Built with Jiazheng Liu and Marin Budic at UT Dallas.
+
 ## Interests
 
 Robot manipulation, robustness and evaluation of embodied AI policies, uncertainty in learned control, simulation-based evaluation, and the kinematics and control side of robotics.
